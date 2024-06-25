@@ -48,4 +48,3 @@ Este relatório apresenta os resultados da análise de dados realizada utilizand
 - Melksedec Silva
 - Vinicius Fernando
 - Mariah Alves
-- Yago Ramon
